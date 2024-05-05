@@ -1,12 +1,4 @@
-Hi👋, I'm master student in The University of Auckland.
-My current research focus on SLT(sign language translation).
-This is a NMT task involving cross-modal matching.
-
- I have been steadfastly dedicated to making my unique 
- contributions to the ever-evolving field of Machine Learning
- 
- Feel free to contact me via [bpan287@aucklanduni.ac.nz](mailto:bpan287@aucklanduni.ac.nz) or 
-[panbo2077@163.com](mailto:panbo2077@163.com)
+### Hi👋, I'm master student in The University of Auckland.My current research focus on SLT(sign language translation).This is a NMT task involving cross-modal matching. I have been steadfastly dedicated to making my unique contributions to the ever-evolving field of Machine Learning. Feel free to contact me via [bpan287@aucklanduni.ac.nz](mailto:bpan287@aucklanduni.ac.nz) or [panbo2077@163.com](mailto:panbo2077@163.com)
 
 <!--
 **ow-winton/ow-winton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
